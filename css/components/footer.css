@@ -1,0 +1,22 @@
+.footer {
+  margin-top: 30px;
+  background-color: #2C2A2A;
+  color: grey;
+  padding: 70px;
+  text-align: center;
+}
+
+.icons {
+  align-items: center;
+  color: #68DE89;
+}
+
+.fab {
+  margin: 10px;
+}
+
+.icons a {
+  text-decoration: none;
+  color: #68DE89;
+  font-size: 30px;
+}

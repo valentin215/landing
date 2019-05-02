@@ -1,0 +1,21 @@
+.banner {
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  color: white;
+  padding:  200px;
+}
+
+.btn-primary {
+  background-color: #68de89;
+  border-radius: 36px;
+  padding: 16px 36px;
+  color: white;
+}
+
+.banner p {
+  color: lightgrey;
+  opacity: 0.8;
+  margin-bottom: 36px;
+  margin-top: 3px;
+}
+
